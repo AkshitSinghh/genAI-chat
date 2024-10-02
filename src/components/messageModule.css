@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.messageWrapper {
+  display: flex;
+  min-height: 60px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  justify-content: end;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  margin: 0 15px 0 15px;
+}
+
+.userText {
+  text-align: justify;
+}
